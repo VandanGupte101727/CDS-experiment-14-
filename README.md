@@ -198,6 +198,11 @@ CODE:-
     }
 
     
+OUTPUT:-
+
+1).<br>
+![exp14](https://github.com/VandanGupte101727/CDS-experiment-14-/blob/main/Screenshot%202024-09-15%20at%2010.44.42%20AM.png)<br>
+
 
 
 
