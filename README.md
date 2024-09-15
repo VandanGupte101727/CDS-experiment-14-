@@ -203,6 +203,15 @@ OUTPUT:-
 1).<br>
 ![exp14](https://github.com/VandanGupte101727/CDS-experiment-14-/blob/main/Screenshot%202024-09-15%20at%2010.44.42%20AM.png)<br>
 
+2).<br>
+![exp14](https://github.com/VandanGupte101727/CDS-experiment-14-/blob/main/Screenshot%202024-09-15%20at%2010.45.07%20AM.png)<br>
+
+3).<br>
+![exp14](https://github.com/VandanGupte101727/CDS-experiment-14-/blob/main/Screenshot%202024-09-14%20at%2011.00.29%20PM.png)<br>
+
+4).<br>
+![exp14](https://github.com/VandanGupte101727/CDS-experiment-14-/blob/main/Screenshot%202024-09-15%20at%2012.51.51%20AM.png)<br>
+
 
 
 
